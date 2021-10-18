@@ -1,3 +1,103 @@
 <resources>
-    <string name="app_name">Wally</string>
+    <string name="app_name">Wallpapers</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="by" translatable="false">By:</string>
+    <string name="downloads" translatable="false">Downloads:</string>
+    <string name="favourite" translatable="false">Favourites:</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="something_went_wrong">Something went wrong…</string>
+    <string name="not_found">Nothing found:(</string>
+    <string name="wallpaper_is_install">Setting wallpaper in progress…</string>
+    <string name="navigation" translatable="false">navigation drawer</string>
+    <string name="detail_image" translatable="false">detail image</string>
+    <string name="category_item" translatable="false">Category item</string>
+    <string name="image_item" translatable="false">Image item</string>
+    <string name="about_us">About Us</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="info">Info</string>
+    <string name="download_start">Saving image started…</string>
+    <string name="download">Download</string>
+    <string name="user_name">image provided by</string>
+    <string name="jpg" translatable="false">.jpg</string>
+
+    <string name="down_wallpapers">Download from Wallpapers</string>
+    <string name="down_complete">Download Complete</string>
+    <string name="set_wall_complete">Wallpaper setup complete</string>
+    <string name="down" translatable="false">.jpg Download</string>
+    <string name="widget">widget</string>
+    <string name="URI" translatable="false">URI:</string>
+    <string name="gallery" translatable="false">Gallery</string>
+    <string name="gallery_toolbar" translatable="false">Gallery</string>
+    <string name="videos" translatable="false">Videos</string>
+
+    <string name="aston" translatable="false">Aston Martin</string>
+    <string name="audi_walp" translatable="false">Audi</string>
+    <string name="bentley" translatable="false">Bentley</string>
+    <string name="bmw" translatable="false">BMW</string>
+    <string name="bmw_request" translatable="false">bmw</string>
+    <string name="bugatti_walp" translatable="false">Bugatti</string>
+    <string name="mercedes" translatable="false">Mercedes-Benz</string>
+    <string name="mercedes_request" translatable="false">mercedes-benz</string>
+    <string name="ferrari_walp" translatable="false">Ferrari</string>
+    <string name="lambo_walp" translatable="false">Lamborghini</string>
+    <string name="mclaren" translatable="false">McLaren</string>
+    <string name="porsche_walp" translatable="false">Porsche</string>
+    <string name="porsche" translatable="false">Porsche</string>
+    <string name="audi" translatable="false">Audi</string>
+    <string name="audi_request" translatable="false">audi</string>
+    <string name="bugatti" translatable="false">Bugatti</string>
+    <string name="lamborghini" translatable="false">Lamborghini</string>
+    <string name="ferrari" translatable="false">Ferrari</string>
+    <string name="rolls" translatable="false">Rolls-Royce</string>
+    <string name="review" translatable="false">review</string>
+
+    <string name="search" translatable="false">Search</string>
+    <string name="type_and_search">Type and Search</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="cancel">Cancel</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorites_toolbar" translatable="false">Favorites</string>
+    <string name="del_from_fav_dialog">Remove from favorites?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="favorites_empty">Favorites empty</string>
+    <string name="share">Share</string>
+    <string name="choose_share">Choose one</string>
+    <string name="you_need_perm_toast">To save images you need this permission</string>
+    <string name="speak_something">Speak something…</string>
+    <string name="email" translatable="false">cupsman1986@gmail.com</string>
+    <string name="add_review">Send feedback</string>
+    <string name="thanks_for_feedback">Thank you for rating</string>
+    <string name="remove_fav_dialog_message">Delete all favorites?</string>
+    <string name="delete_all">Delete all</string>
+    <string name="cant_share">Unable to share</string>
+    <string name="update_dialog_message">A new version of the app is available. Download?</string>
+
+    <string name="user_unsplash" translatable="false">George Smith</string>
+    <string name="user_abyss" translatable="false">Mike Antony</string>
+    <string name="similar_images" translatable="false">Similar images:</string>
+
+    <string name="press_back">Press BACK again to exit</string>
+    <string name="bmw_videos" translatable="false">BMW Videos</string>
+    <string name="audi_videos" translatable="false">Audi Videos</string>
+    <string name="mercedes_benz_videos" translatable="false">Mercedes-Benz Videos</string>
+    <string name="all_videos" translatable="false">All Videos</string>
+
+    <string-array name="categories_array">
+        <item>Nature</item>
+        <item>Textures</item>
+        <item>Buildings</item>
+        <item>Music</item>
+        <item>Art</item>
+        <item>Ocean</item>
+        <item>Winter</item>
+        <item>Animals</item>
+        <item>Dark</item>
+        <item>Cosmos</item>
+        <item>Sport</item>
+        <item>Games</item>
+    </string-array>
 </resources>
